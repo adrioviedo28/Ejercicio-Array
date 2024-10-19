@@ -12,6 +12,7 @@ import java.util.List;
 //Elimina "Banana" de la lista.
 //Cambia el valor de "Cherry" por "Orange".
 //Imprime la lista resultante.
+
 public class EjercicioUno {
 
     public static void main(String[] args) {
@@ -38,7 +39,6 @@ public class EjercicioUno {
         //cambiar cherry a Orange
         fruits.set(1, "Orange");
         System.out.println(fruits);
-
 
 
     }
